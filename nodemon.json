@@ -1,0 +1,9 @@
+{
+  "env": {
+      "MONGO_USER": "nuap",
+      "MONGO_PASSWORD": "291084",
+      "MONGO_DB": "Cluster0"
+  }
+}
+
+
