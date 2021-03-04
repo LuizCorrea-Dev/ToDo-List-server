@@ -1,5 +1,6 @@
 #Todo com React, TypeScript, NodeJS e MongoDB
 
+
 # extrutura do projeto 
   ├── dist
   ├── node_modules
@@ -92,7 +93,7 @@ Agora podemos iniciar o servidor - no entanto, ainda não criamos nada significa
   Até agora, cobrimos muito, mas ainda assim, nenhum servidor para iniciar. 
 
   >Crie um servidor
-  Antes de criar o servidor, precisamos primeiro adicionar algumas variáveis ​​de ambiente que conterão as credenciais do MongoDB no [nodemon.json] arquivo.
+  Antes de criar o servidor, precisamos primeiro adicionar algumas variáveis de ambiente que conterão as credenciais do MongoDB no [nodemon.json] arquivo.
   Você pode obter as credenciais criando um novo cluster no <a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas</a>
 
  # app.ts
