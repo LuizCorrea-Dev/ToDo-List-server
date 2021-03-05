@@ -1,0 +1,7 @@
+{
+  "name": "nuap",
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "Cluster0"
+  }
+}
